@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nakabonne/tstorage/internal/cgroup"
-	"github.com/nakabonne/tstorage/internal/timerpool"
+	"github.com/danhab99/tstorage/internal/cgroup"
+	"github.com/danhab99/tstorage/internal/timerpool"
 	"github.com/vmihailenco/msgpack"
 )
 
